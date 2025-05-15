@@ -28,7 +28,7 @@ Define wokflow that will be imported in to workflow-controller API by POST reque
 ![parameters as inputs](./../assets/ssm_update_window.png)
 
 
-```
+```bash
 # Post workflow templates
 for i in $DIRECTORY/workflow-*.json; do
     # Process $i

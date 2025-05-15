@@ -61,7 +61,7 @@ MagicFlow is designed with modularity in mind. It can be:
 
 Continue exploring the documentation to learn more about:
 
-- [Job Definitions](./jobs.md)
+- [Job Definitions](./framework/jobs.md)
 - [Workflow Configuration](./framework/components.md)
 - [Platform Integration](./integration/architecture.md)
-- [Examples & Use Cases](./examples.md)
+- [Examples & Use Cases](./examples/index.md)
