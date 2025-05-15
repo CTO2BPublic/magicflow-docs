@@ -4,7 +4,7 @@ site_url: https://cto2bpublic.github.io/magicflow/
 nav:
   - Home: index.md
   - Integrations: 
-    - integrations/architecture.md
+    - Architecture: integration/architecture.md
   - Framework:
     - Components: framework/components.md
     - Jobs: framework/jobs.md
