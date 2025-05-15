@@ -1,6 +1,6 @@
 # Job examples
 
-- [Gitlab Pipeline](./pipepline.md) - work with Gitlab pipeline
+- [Gitlab Pipeline](./pipeline.md) - work with Gitlab pipeline
     - job: "check_pipeline_status" - Monitors the status of a GitLab merge request pipeline, pausing the workflow if the pipeline is still running or waiting, and returning the final status when complete.
     - job: "check_pipeline_job_status" - Tracks the status of specific jobs within a GitLab pipeline, pausing the workflow if jobs are still running, and returning the final job status when complete.
     - job: "play_pipeline_job" - Triggers a manual job in a GitLab pipeline and returns the job details and status after execution.
