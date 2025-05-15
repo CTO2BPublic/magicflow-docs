@@ -1,6 +1,18 @@
 site_name: Magicflow
 site_url: https://cto2bpublic.github.io/magicflow/
 
+nav:
+  - Home: index.md
+  - Integrations: 
+    - integrations/architecture.md
+  - Framework:
+    - Components: framework/components.md
+    - Jobs: framework/jobs.md
+  - Examples:
+    - Overview: examples/index.md
+    - SSM: examples/ssm.md
+    - Pipeline: examples/pipeline.md
+
 theme:
   name: material
   custom_dir: overrides
