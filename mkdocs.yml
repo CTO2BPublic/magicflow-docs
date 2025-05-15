@@ -1,0 +1,25 @@
+site_name: Magicflow
+site_url: https://cto2bpublic.github.io/magicflow/
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    scheme: slate
+    primary: light green
+    accent: light green
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - content.code.copy
+    - content.code.annotate
+
+repo_url: https://github.com/CTO2BPublic/magicflow
+repo_name: CTO2BPublic/magicflow
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
