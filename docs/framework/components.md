@@ -50,7 +50,6 @@ A **command** is an object placed into a queue system to instruct the worker to 
 }
 ``` 
 
-
 ---
 
 ## Events
