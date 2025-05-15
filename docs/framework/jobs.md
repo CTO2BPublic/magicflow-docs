@@ -4,19 +4,19 @@
 flowchart TD
     subgraph Workflow_Controller
         WF[Workflow]
-        JobDef[Job (Definition)]
+        JobDef["Job (Definition)"]
         WF --> JobDef
-        note1[/"Job is defined as JSON (inputs/outputs)"/]
+        note1["Job is defined as JSON (inputs/outputs)"]
         JobDef --> note1
     end
 
     subgraph MagicFlow_Worker
-        JobCode[Job (Implementation)]
-        note2[/"Job implemented as Python code in `/jobs/lib`"/]
+        JobCode["Job (Implementation)"]
+        note2["Job implemented as Python code in /jobs/lib"]
         JobCode --> note2
     end
 
-    JobDef -- executed by --> JobCode
+    JobDef -- "executed by" --> JobCode
 ```
 
 ## workflow-controller API 

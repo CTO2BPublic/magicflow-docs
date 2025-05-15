@@ -98,7 +98,7 @@ A **command** is an object placed into a queue system to instruct the worker to 
 }
 ``` 
  `WorkflowStarted`  Indicates the start of a workflow  
- ```json
+```json
 {
   "id": "xxx-x-x-x-xxx-x-x-x-xx",
   "attributes": {
@@ -114,7 +114,7 @@ A **command** is an object placed into a queue system to instruct the worker to 
 }
 ``` 
  `WorkflowCompleted`  Indicates successful completion of a workflow 
-  ```json
+```json
 {
   "id": "xxx-x-x-x-xxx-x-x-x-xx",
   "attributes": {
@@ -131,7 +131,7 @@ A **command** is an object placed into a queue system to instruct the worker to 
 }
 ``` 
  `WorkflowFailed`  Indicates a workflow has failed 
-  ```json
+```json
 {
   "id": "xxx-x-x-x-xxx-x-x-x-xx",
   "attributes": {
