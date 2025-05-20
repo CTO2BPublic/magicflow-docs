@@ -8,6 +8,7 @@ nav:
   - Framework:
     - Components: framework/components.md
     - Jobs: framework/jobs.md
+    - Testing: framework/testing.md
   - Examples:
     - Overview: examples/index.md
     - SSM: examples/ssm.md
