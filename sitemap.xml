@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://cto2bpublic.github.io/magicflow/</loc>
+         <lastmod>2025-05-20</lastmod>
+    </url>
+    <url>
+         <loc>https://cto2bpublic.github.io/magicflow/examples/</loc>
+         <lastmod>2025-05-20</lastmod>
+    </url>
+    <url>
+         <loc>https://cto2bpublic.github.io/magicflow/examples/pipeline/</loc>
+         <lastmod>2025-05-20</lastmod>
+    </url>
+    <url>
+         <loc>https://cto2bpublic.github.io/magicflow/examples/ssm/</loc>
+         <lastmod>2025-05-20</lastmod>
+    </url>
+    <url>
+         <loc>https://cto2bpublic.github.io/magicflow/framework/components/</loc>
+         <lastmod>2025-05-20</lastmod>
+    </url>
+    <url>
+         <loc>https://cto2bpublic.github.io/magicflow/framework/jobs/</loc>
+         <lastmod>2025-05-20</lastmod>
+    </url>
+    <url>
+         <loc>https://cto2bpublic.github.io/magicflow/framework/testing/</loc>
+         <lastmod>2025-05-20</lastmod>
+    </url>
+    <url>
+         <loc>https://cto2bpublic.github.io/magicflow/integration/architecture/</loc>
+         <lastmod>2025-05-20</lastmod>
+    </url>
+</urlset>
